@@ -1,3 +1,3 @@
-Arduino dili kullanılarak yazılmıştır
+Written with Arduino
 
-Arduino idesi ve Proteus programı beraber kullanılarak çalıştırılır
+Use Arduino ide and Proteus to run the program
